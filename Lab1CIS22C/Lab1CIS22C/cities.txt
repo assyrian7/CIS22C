@@ -1,0 +1,20 @@
+CA 1850 San Francisco 
+MA 1822 Boston 
+TX 1856 Dallas 
+IL 1837 Chicago 
+WI 1846 Milwaukee 
+TX 1837 Houston 
+IN 1832 Indianapolis 
+DC 1788 Washington
+FL 1822 Jacksonville 
+CA 1850 Los Angeles 
+MI 1701 Detroit 
+TN 1826 Memphis 
+TX 1837 San Antonio 
+NY 1898 New York 
+PA 1701 Philadelphia 
+MD 1797 Baltimore 
+AZ 1881 Phoenix 
+CA 1850 San Diego 
+OH 1834 Columbus 
+CA 1850 San Jose 
